@@ -13,7 +13,7 @@
 4. Configura el servicio:
    - **Name**: `airsafe-app` (o el nombre que prefieras)
    - **Build Command**: `npm run build`
-   - **Publish Directory**: `web-build`
+   - **Publish Directory**: `dist`
    - **Environment**: `Node.js 18.17.0`
 
 ### 3. Variables de entorno (si las necesitas)
